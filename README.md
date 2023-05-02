@@ -9,7 +9,7 @@ In order to run the environment, first create the virtual environment by running
 
 Afterwards, activate the virtual environment by running:
 
-`venv\Scripts\active`
+`venv\Scripts\activate`
 
 And then install dependencies by running:
 
